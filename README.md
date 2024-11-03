@@ -1,16 +1,16 @@
 👋 Hello, I'm Md. Omar Shohid Khan
-Welcome to my GitHub! I'm a Senior Software Engineer at the Institute of Water Modelling (IWM), based in Bangladesh. I bring years of experience in building web, mobile, and data-driven applications with a focus on efficiency and innovation.
+Welcome to my GitHub! I'm a Senior Software Engineer at the Institute of Water Modelling (IWM) in Bangladesh, specializing in creating efficient and scalable software solutions for complex systems.
 
 🚀 About Me
-💼 Currently working on web, mobile, and data solutions to support dynamic applications and data visualization.
-🔧 Experienced with Laravel, FastAPI, C#, .NET, Python, SQL Server, and various database technologies.
-🌊 I admire the qualities of adaptability and fluidity, always eager to embrace new technologies and challenges.
-🔍 Expertise
-Backend Development: Laravel, FastAPI, .NET
-Frontend Development: Expertise in interactive and responsive UI design
-Mobile Development: Flutter
-Data Processing & Visualization: SQL Server, advanced database management, and data-driven decision-making
-Project Interests: Real-time data aggregation, mapping, and integration of secure authentication features
+💼 Currently working on software engineering projects that involve web, mobile, and data-driven solutions.
+🔧 Proficient in a wide range of technologies, including C#, .NET, Python, JavaScript, TypeScript, PHP, SQL Server, PostgreSQL, MySQL, Oracle, and SQLite.
+🌍 Passionate about leveraging tech to solve real-world challenges, with a strong foundation in data processing, analytics, and visualization.
+🔍 Technology Stack
+Languages: C#, Python, JavaScript, TypeScript, PHP, Dart, 
+Frameworks: .NET, FastAPI, Laravel, .Net Core, .Net MVC, Flask, WPF, 
+Databases: SQL Server, PostgreSQL, MySQL, SQLite, Oracle 
+Web & Mobile: Java, Android, React Native, Expo, React JS, Angular JS, Flutter, responsive and interactive UI design
+Tools: Git, GitHub, Azure, Docker, TFS
 📫 Let's Connect
 LinkedIn: Md. Omar Shohid Khan
 GitHub: @omarshohid
